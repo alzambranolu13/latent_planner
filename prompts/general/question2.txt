@@ -1,0 +1,21 @@
+🧑 Hello
+🤖 Hi
+🧑 Please open Plos Biology and show me some of the recently published articles in Plos one.
+🤖 Sure
+🤖 Here is the list:
+	1. Development of an amplicon-based sequencing approach in response to the global emergence of mpox
+	2. Ring neurons in the Drosophila central complex act as a rheostat for sensory modulation of aging
+	3. Learning science alongside peers with intellectual and developmental disabilities
+🧑 Open the second one.
+🤖 Sure
+🧑 Please provide me with the summary of the introduction.
+🤖 Okay
+🤖 Below summary has been generated using Bard AI:
+	
+	The perception of dead conspecifics in Drosophila melanogaster can have a significant impact on the lifespan and physiology of the flies.
+	This effect is mediated by a small subset of 5-HT2A-expressing neurons in the ellipsoid body (EB), which are required for the lifespan effects caused by death exposure.
+	The transcription factor associated with insulin-signaling, foxo, is required in these neurons.
+	The Drosophila insulin-like peptides (dilp) 3 and 5, but not dilp2, were also required to mediate lifespan effects due to death perception.
+	These findings may provide insight for treating individuals who are routinely exposed to stressful situations surrounding death.
+🧑 Okay, thanks for the information.
+🤖 Not a problem. Please feel free to reach out to me if you need any further assistance.

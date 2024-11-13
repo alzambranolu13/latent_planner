@@ -1,0 +1,14 @@
+<goal>
+"Calculate the interest rate, total number of monthly payments, and interest amount for a loan using the Interest Rate Calculator on Calculator.net."
+</goal>
+<steps>
+1. Open the Calculator.net website.
+2. Navigate to the Interest Rate Calculator.
+3. Enter the loan details:
+    Loan amount: $50,000
+    Loan term: 4 years
+    Monthly payment: $1,500
+4. Calculate and retrieve the interest rate.
+5. Determine the total number of monthly payments.
+6. Calculate and retrieve the total interest amount.
+</steps>

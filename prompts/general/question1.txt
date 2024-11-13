@@ -1,0 +1,23 @@
+🤖 Hello
+🧑 Open Calculator.net
+🤖 Yes, sure.
+🤖 What do you want me to do?
+🧑 Open the Interest Rate Calculator.
+🤖 Fill the below details:
+        Loan amount
+        Loan term
+        Monthly payment
+🧑 Below are the details:
+        
+        Loan amount: $50,000
+        Loan term: 4years
+        Monthly payment: $1500
+        
+        Find me the interest rate.
+🤖 The interest rate is 19.189%.
+🧑 What number of payments will I make monthly?
+🤖 48 monthly payments
+🧑 What is the interest amount?
+🤖 $22,000.00
+🧑 Okay, We can conclude here.
+🤖 Certainly. If you have more questions in the future, feel free to ask. Goodbye for now!

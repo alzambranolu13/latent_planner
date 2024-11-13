@@ -1,0 +1,6 @@
+1. Open Reddit.
+2. Create a new post.
+3. Set the post title as 'I tried a new recipe, and it turned out amazing!'.
+4. Add the following content to the post:
+   "Calling all foodies! Last night, I decided to try my hand at cooking Omelette for the first time, and it was a huge success. The flavors were spot on, and it was surprisingly easy to make. If you're looking to impress your taste buds, give this recipe a try. I've included the link in the comments. Bon appétit!"
+5. Draft the post without formatting.

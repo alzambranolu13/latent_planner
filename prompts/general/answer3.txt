@@ -1,0 +1,10 @@
+<goal>
+"Retrieve the description and vote count for the last question in the top 8 Stack Exchange questions."
+</goal>
+<steps>
+1. Open the Stack Exchange website.
+2. Retrieve a list of the top 8 questions.
+3. Open the last question 
+4. Retrieve and provide a description of the question.
+5. Retrieve the vote count for the question's answer.
+</steps>

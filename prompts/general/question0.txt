@@ -1,0 +1,35 @@
+🧑 Hello
+🤖 Hi
+🧑 Please open the eBay website.
+🤖 Sure
+🤖 What are you looking for?
+🧑 I am looking for Men's watches.
+🤖 Alright
+🤖 Please choose from the following Brand options:
+        1. Seiko
+        2. Citizen
+        3. Casio
+        4. Unbranded
+        5. Rolex
+🧑 Select Rolex.
+🤖 Which Band material would you prefer?
+        1. Gold Plated
+        2. Leather
+        3. Rose Gold
+        4. Rubber
+        5. Silver
+🧑 I would prefer silver.
+🤖 Okay
+🤖 May I know your budget?
+🧑 Somewhere around $13,000 to $15,000.
+🤖 Alright
+🧑 What are the available options?
+🤖 Here are few options:
+        1. Rolex 116333 Ivory Diamond Datejust II Oyster Perpetual Oyster Band 18K Gold
+        2. Rolex 116333 Black Roman Datejust II Oyster Perpetual Oyster Band 18K Gold
+        3. 1963 Rolex Explorer Ref 5500-1002, cal 1530 Automatic Steel Watch, Fine & V Rare
+        4. Rolex Datejust 41, Men's Watch ( 126300-0008 ) jubilee bracelet
+🧑 What is the price for 1963 Rolex?
+🤖 The price is AU $21,950.00
+🧑 Alright! We are done here.
+🤖 Okay

@@ -1,0 +1,4 @@
+1. Open Reddit.
+2. Compose a holiday greeting message using ChatGPT.
+3. Specify the holiday as Diwali.
+4. Send the generated Diwali greeting message to u/Esytest.

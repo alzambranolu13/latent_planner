@@ -1,0 +1,10 @@
+<goal>
+"Retrieve the summary of the introduction of the second article in Plos Biology."
+</goal>
+<steps>
+1. Open the Plos Biology website.
+2. Navigate to the Plos One section.
+3. Retrieve a list of recently published articles.
+4. Open second article 
+4. Provide a summary of the article's introduction.
+</steps>

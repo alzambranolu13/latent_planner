@@ -1,0 +1,1 @@
+"Send a 'Holiday Greeting' message to u/Esytest on Reddit for the Diwali holiday."

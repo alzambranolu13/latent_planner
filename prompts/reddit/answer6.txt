@@ -1,0 +1,6 @@
+1. Open Reddit.
+2. Click on 'Create Post.'
+3. Add the title 'Computer Science.'
+4. Provide the description about the study of computers and computational systems.
+5. Attempt to post the content.
+6. If posting is not available, save the post as a draft.

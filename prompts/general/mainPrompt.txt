@@ -1,0 +1,60 @@
+Hello! I'm trying to create a multi-agent web system. This configuration includes a planner agent and a controller agent. The main purpose of the planner is to create a high-level plan based on the user's goal, the controller will just follow each substep in the plan in order to complete the goal.
+
+I'm trying to create a dataset to train this Planner agent. The idea is to base this dataset on the WebLinxs Benchmark since it's step based. I need you to help me extract goal and plan from the Weblinxs recording. I'll provide some examples.
+
+This a Weblinx example interaction:
+🧑 Hello
+🤖 Hi
+🧑 Open independent ie Website.
+🤖 Yes, sure
+🧑 Go to life and send me some life related news
+🤖 Here are some life related news that I found:
+        1.Ask the doctor: I go to bed early, eat well and exercise – so why am I always exhausted by lunchtime?
+        2.Ever-decreasing spaces, yet we continue to make bigger cars
+🧑 Open second one and Summarize the first three paragraphs in a few words
+🤖 Here is the summary that I found using ChatGPT:
+        New car launches typically introduce larger vehicles than their predecessors, except for a few exceptions like the Opel Astra. Larger cars give the perception of getting more value for money, but they also come with a higher price tag.
+🧑 That’s all for now.
+🤖 Alright.
+
+What I extracted from this for my dataset is:
+
+Goal: "Summarize the second news article in the Life section of the Irish Independent."
+
+Steps: 
+1. Open the Irish Independent website.
+2. Navigate to the Life section.
+3. Open the second article.
+4. Read and summarize the content.
+5. Provide the summarized output to the user
+
+🧑 Hi
+🤖 Hello
+🧑 Please open the Investopedia website.
+🤖 Sure.
+🧑 Search "Trading for Beginners."
+🧑 Show me some articles
+🤖 Here are the options:
+        1.10 Day Trading Tips for Beginners
+        2.7 Best ETF Trading Strategies for Beginners
+        3.Options Trading for Beginners
+🧑 Open the first one.
+🧑 Open the second section and send me the first paragraph.
+🤖 Assess and commit to the amount of capital you're willing to risk on each trade. Many successful day traders risk less than 1% to 2% of their accounts per trade. If you have a $40,000 trading account and are willing to risk 0.5% of your capital on each trade, your maximum loss per trade is $200 (0.5% x $40,000).
+🧑 We can conclude here.
+🤖 Sure.
+
+What is extracted:
+
+Goal: "Retrieve the first paragraph of the second section of the first article related to ’Trading for beginners’ on Investopedia."
+
+Steps: 
+1. Open the Investopedia website.
+2. Search for articles on ”Trading for beginners.”
+3. Review the first three articles.
+4. Open the first article.
+5. Retrieve first paragraph of section number 2.
+
+Goal and Steps have an important relationship. The goal provides important information to take into account in the steps of the plan like user information, names, etc... The steps are high level, since we don't want to assume the stage of the page.
+
+I need your help for this dataset extraction. Please give your answer in a structured JSON.

@@ -1,0 +1,11 @@
+🧑 Hello
+🤖 Hi
+🧑 Please open Gmail.
+🤖 Yes, sure
+🧑 Add a task with the title "Interview."
+🤖 Okay
+🧑 Add details as "Personal Interview work" and select the date as May 30th and the time as 9:00 am.
+🤖 Okay
+🧑 Create a reminder that repeats every day until May 29th at 9:00 pm.
+🤖 Done
+🧑 That's it for now.
