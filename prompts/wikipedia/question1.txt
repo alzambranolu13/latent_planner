@@ -1,0 +1,1 @@
+"Retrieve information about the term 'Veganism' and the rights of vegans from Wikipedia."

@@ -1,0 +1,1 @@
+"Create a Google Slides presentation on the topic of 'Operating System' using the 'Shift' theme and 'Title and Body' slide layout. Include information from the Wikipedia page on operating systems and their types."

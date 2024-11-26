@@ -1,4 +1,5 @@
-1. Open Reddit.
-2. Compose a holiday greeting message using ChatGPT.
-3. Specify the holiday as Diwali.
-4. Send the generated Diwali greeting message to u/Esytest.
+1. Navigate to u/Esytest profile.
+2. Find and provide a summary of the post titled "Save Forest."
+3. Use ChatGPT to generate a summary of the post.
+4. Upvote the post.
+5. Comment with the specified message.

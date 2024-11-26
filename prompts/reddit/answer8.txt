@@ -1,7 +1,5 @@
-1. Open Reddit.
-2. Create a post about "Types of tortoises" using ChatGPT.
-3. Add the provided content about different tortoise species.
-4. Include the specified tags: 
-   #TortoiseSpecies #TortoiseConservation #ReptilesOfTheWorld #TortoiseDiversity #TortoiseHabitats #AncientReptiles #TortoiseAdaptations #ProtectingTortoises #WildlifeConservation #TortoiseAwareness #TortoiseLovers #NatureExploration #EcologicalBalance #PreservingBiodiversity #TortoiseEnthusiasts
-5. Add an image of a tortoise from Google.
-6. Save the post as a draft.
+1. Search for the subreddit r/ShoppingDealsOnline.
+2. Follow the subreddit.
+3. Upvote a product from the subreddit.
+4. Add a comment asking for the product features.
+5. Save the post.

@@ -1,0 +1,1 @@
+"Create a workspace on Trello named 'Stellar Solutions' with the type 'Engineering-IT', including a workspace description and inviting team members with specified email IDs."

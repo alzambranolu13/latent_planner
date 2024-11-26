@@ -1,0 +1,4 @@
+1. Search for "Gulfstream G650/G700/G800".
+2. Retrieve and provide information about the Gulfstream G650, including its top speed and first flight date.
+3. Retrieve and provide information about the Gulfstream G700, including its price and first flight date.
+4. Provide details about the variants of the Gulfstream jets, including G650ER, G700, and G800.

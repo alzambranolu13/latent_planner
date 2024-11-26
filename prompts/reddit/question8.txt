@@ -1,1 +1,1 @@
-"Create a Reddit post about 'Types of tortoises' using ChatGPT, add content about various tortoise species, include specified tags, add an image of a tortoise from Google, and save the post as a draft."
+"Follow the subreddit r/ShoppingDealsOnline on Reddit, upvote their product, add a comment asking for product features, and save the post."

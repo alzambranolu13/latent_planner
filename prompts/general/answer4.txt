@@ -2,9 +2,8 @@
 "Create a Gmail task titled 'Interview' with details 'Personal Interview work,' scheduled for May 30th at 9:00 am, and a daily reminder at 9:00 pm until May 29th."
 </goal>
 <steps>
-1. Open Gmail.
-2. Create a new task titled "Interview."
-3. Add details to the task as "Personal Interview work."
-4. Set the task date for May 30th at 9:00 am.
-5. Create a daily reminder at 9:00 pm that repeats until May 29th.
+1. Create a new task titled "Interview."
+2. Add details to the task as "Personal Interview work."
+3. Set the task date for May 30th at 9:00 am.
+4. Create a daily reminder at 9:00 pm that repeats until May 29th.
 </steps>

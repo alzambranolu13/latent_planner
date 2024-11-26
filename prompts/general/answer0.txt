@@ -2,11 +2,10 @@
 "Find available options for men's Rolex watches with a silver band within a budget range of $13,000 to $15,000 on eBay."
 </goal>
 <steps>
-1. Open the eBay website.
-2. Search for men's watches.
-3. Filter results by the Rolex brand.
-4. Select a silver band material.
-5. Set the budget range to $13,000–$15,000.
-6. Retrieve and list available options.
-7. Provide the price for the selected watch model, "1963 Rolex Explorer Ref 5500-1002."
+1. Search for men's watches.
+2. Filter results by the Rolex brand.
+3. Select a silver band material.
+4. Set the budget range to $13,000–$15,000.
+5. Retrieve and list available options.
+6. Provide the price for the selected watch model, "1963 Rolex Explorer Ref 5500-1002."
 </steps>

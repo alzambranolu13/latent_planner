@@ -1,0 +1,1 @@
+"Retrieve information about the Renaissance from Wikipedia, including its definition, birthplace, spread to Europe, and spread to Germany."

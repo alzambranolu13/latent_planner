@@ -1,0 +1,5 @@
+1. Search for information on hydrology.
+2. Open the second option related to forest hydrology.
+3. Inquire about the two aspects of forest hydrology.
+4. Ask for definitions of forestry and hydrology.
+5. Thank the web agent for the provided information.

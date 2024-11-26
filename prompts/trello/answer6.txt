@@ -1,0 +1,10 @@
+1. Create lists with the following titles in the 'Project Hyphen' workspace:
+   - List 1 John Doe
+   - List 2 Aziz Divit
+   - List 3 Rachel Keith
+   - List 4 Nancy Nars
+   - List 5 Kemal Tarhun
+2. Assign tasks to each list as follows:
+   - List 1: "Please assign the new tasks to the team"
+   - List 2: "Update me with the new project status"
+   - List 3: "Make the changes in the UI of the Mila’s website"

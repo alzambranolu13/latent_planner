@@ -1,0 +1,6 @@
+1. Search for men's watches.
+2. Filter results by the Rolex brand.
+3. Select a silver band material.
+4. Set the budget range to $13,000–$15,000.
+5. Retrieve and list available options.
+6. Provide the price for the selected watch model, "1963 Rolex Explorer Ref 5500-1002."

@@ -1,0 +1,1 @@
+"Retrieve information about isotopes from an encyclopedia, including the definition, total number of views, the year James Chadwick won the Nobel Prize, and a brief explanation of atoms and elements."

@@ -1,6 +1,8 @@
-Hello! I'm trying to create a multi-agent web system. This configuration includes a planner agent and a controller agent. The main purpose of the planner is to create a high-level plan based on the user's goal, the controller will just follow each substep in the plan in order to complete the goal.
+You are an expert in Navigating different websites so it's easy for you to create a good plan based on a web goal. 
 
-I'm trying to create a dataset to train this Planner agent. The idea is to base this dataset on the WebLinxs Benchmark since it's step based. I need you to help me extract goal and plan from the Weblinxs recording. I'll provide some examples.
+I'll provide you a conversation between a human and a web agent, your job is to extract a High Level goal that the human wanted to achieve and the steps the web agent did to complete them.
+
+Here are a few examples.
 
 This a Weblinx example interaction:
 🧑 Hello
@@ -22,11 +24,10 @@ What I extracted from this for my dataset is:
 Goal: "Summarize the second news article in the Life section of the Irish Independent."
 
 Steps: 
-1. Open the Irish Independent website.
-2. Navigate to the Life section.
-3. Open the second article.
-4. Read and summarize the content.
-5. Provide the summarized output to the user
+1. Navigate to the Life section.
+2. Open the second article.
+3. Read and summarize the content.
+4. Provide the summarized output to the user
 
 🧑 Hi
 🤖 Hello
@@ -49,12 +50,16 @@ What is extracted:
 Goal: "Retrieve the first paragraph of the second section of the first article related to ’Trading for beginners’ on Investopedia."
 
 Steps: 
-1. Open the Investopedia website.
-2. Search for articles on ”Trading for beginners.”
-3. Review the first three articles.
-4. Open the first article.
-5. Retrieve first paragraph of section number 2.
+1. Search for articles on ”Trading for beginners.”
+2. Review the first three articles.
+3. Open the first article.
+4. Retrieve first paragraph of section number 2.
 
-Goal and Steps have an important relationship. The goal provides important information to take into account in the steps of the plan like user information, names, etc... The steps are high level, since we don't want to assume the stage of the page.
+If you noticed the step of opening the website is ignored, this is because we are assuming the expected page is already open. 
 
-I need your help for this dataset extraction. Please give your answer in a structured JSON.
+DO NOT mention the page name or URL on the steps, as examples show.
+
+Is expected that in your plan you don't inlude any specific information since you are only forseeing the steps required while not actually accesing any web pages. 
+While your goal has to include all information relevant for the steps.
+
+Please give your answer in a structured JSON.

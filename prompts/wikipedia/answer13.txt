@@ -1,0 +1,4 @@
+1. Search for today's featured article.
+2. Retrieve and share the first paragraph of the featured article about BTS.
+3. Provide a list of BTS members.
+4. Share the various names BTS is known by.

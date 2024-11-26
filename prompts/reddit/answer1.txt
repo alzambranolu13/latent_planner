@@ -1,5 +1,4 @@
-1. Open Reddit.
-2. Create a new image post.
-3. Use the provided title: "🐯 Proud supporter of Siberian Tiger conservation! Together, we can protect these majestic creatures and their habitats. 🌿🐅 #SaveSiberianTigers #ConservationMatters"
-4. Add an image of a Siberian Tiger.
-5. Save the post as a draft.
+1. Create a post with the provided paragraph content.
+2. Title the post as "Invite for a BGMI match."
+3. Add a suitable BGMI image from Google to the post.
+4. Draft the post for submission.

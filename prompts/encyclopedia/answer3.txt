@@ -1,0 +1,5 @@
+1. Search for information on genetic engineering.
+2. Open the first result.
+3. Provide the definition of genetic engineering.
+4. Retrieve the number of views on the topic.
+5. Provide the last updated date of the information.

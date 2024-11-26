@@ -1,0 +1,1 @@
+"Retrieve information about Mary, Queen of Scots from Wikipedia, including her birth date, death date, religion, and reign duration."

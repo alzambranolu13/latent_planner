@@ -1,0 +1,4 @@
+1. Create a new workspace named 'Stellar Solutions.'
+2. Select the workspace type as 'Engineering-IT.'
+3. Add the workspace description provided.
+4. Invite team members with the email IDs: esytest5@gmail.com, abcdef@gmail.com, qwerty@gmail.com.

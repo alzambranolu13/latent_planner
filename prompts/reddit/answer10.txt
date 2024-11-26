@@ -1,9 +1,3 @@
-1. Open the Reddit website.
-2. Create a community named "RecipeLovers."
-3. Choose the community type as public and select adult content.
-4. Create a post with the following details:
-   - Title: A classic recipe for Tiramisu
-   - Ingredients with bullet points
-   - Instructions in the description after bullet points
-5. Add the following tags to the post: #TiramisuRecipe #ClassicDesserts #ItalianCuisine #EasyDesserts #CoffeeFlavors #IndulgentTreats #MascarponeCheese
-6. Click on the "Post" option to publish the post.
+1. Search for the post "Save Forest" by u/Esytest.
+2. Add a comment expressing admiration for the post's insights on forest conservation.
+3. Include specific tags in the comment: #SaveForests #PreserveNature #BiodiversityMatters #ClimateAction #WaterConservation #CulturalHeritage #Sustainability #CommunityEngagement #TogetherForChange #GreenPlanet.

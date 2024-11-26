@@ -1,0 +1,9 @@
+1. Open Google Slides and navigate to the "Go to Slide" option.
+2. Choose the "Blank" option to create a presentation on the topic of "Operating System."
+3. Select the "Shift" theme and the "Title and Body" slide layout.
+4. Access the Wikipedia page and search for "Operating system" to gather information.
+5. Create the first slide with the title "Operating System" and add two lines of information from Wikipedia in the body section.
+6. Adjust the Heading size to 40 and body text size to 28.5.
+7. Proceed to the next slide with the same layout and title it "Types of Operating Systems."
+8. Add bullet points in the body section with the types of operating systems from Wikipedia.
+9. Set the heading size to 40 and body text size to 16.5.

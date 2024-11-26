@@ -1,0 +1,8 @@
+1. Log with the provided credentials.
+2. Navigate to "Shop by category" and select "Women" in the Fashion category.
+3. Choose the "Dresses" category.
+4. Select size M, knee length, and sleeveless options.
+5. Provide available options.
+6. Open the last option.
+7. Check availability in blue or black color.
+8. Provide fabric and material details of the dress.

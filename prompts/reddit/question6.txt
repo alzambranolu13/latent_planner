@@ -1,1 +1,1 @@
-"Create a Reddit post with the title 'Computer Science' and a description about the study of computers and computational systems, then save it as a draft."
+"Create a draft post on Reddit with the title 'Computer Science' and a provided description."

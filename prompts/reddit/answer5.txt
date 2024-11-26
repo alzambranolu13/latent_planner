@@ -1,6 +1,4 @@
-1. Open Reddit.
-2. Navigate to the profile u/Esytest.
-3. Find and retrieve the post titled "Save Forest."
-4. Generate a summary of the post using ChatGPT.
-5. Upvote the post.
-6. Comment on the post with the specified message.
+1. Create a post with the content provided about types of tortoises.
+2. Add the specified tags to the post.
+3. Search for and add an image of a tortoise from Google.
+4. Save the post as a draft.

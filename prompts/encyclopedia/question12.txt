@@ -1,0 +1,1 @@
+"Retrieve information about the position of semiconductors in the periodic table and the definition of 'monochromatic' from the Encyclopedia website."

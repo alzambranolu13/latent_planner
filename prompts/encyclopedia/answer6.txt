@@ -1,0 +1,5 @@
+1. Search for trending tech.
+2. Open the third search result.
+3. Retrieve and list the featured technologies.
+4. Provide the author's name.
+5. Provide information about Bergamo.

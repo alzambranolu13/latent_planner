@@ -1,0 +1,4 @@
+1. Search for 'Annotations'.
+2. Go to the 'Gmail' section.
+3. Add a new card titled 'Email Empowerment' with the label 'Template'.
+4. Set the notification for the card to 'watching'.

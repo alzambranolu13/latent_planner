@@ -1,0 +1,4 @@
+1. Search for information about Mary, Queen of Scots.
+2. Retrieve and provide her birth date (8 December 1542) and death date (8 February 1587).
+3. Provide her religion as Roman Catholicism.
+4. Share the duration of her reign from 14 December 1542 to 24 July 1567.

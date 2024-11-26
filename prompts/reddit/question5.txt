@@ -1,1 +1,1 @@
-"Retrieve a summary of the post titled 'Save Forest' from the Reddit profile u/Esytest, upvote the post, and comment with a specific message."
+"Create a Reddit post on 'Types of tortoises' with specific content, tags, and an image, then save it as a draft."
