@@ -1,5 +1,0 @@
-1. Navigate to u/Esytest profile.
-2. Find and provide a summary of the post titled "Save Forest."
-3. Use ChatGPT to generate a summary of the post.
-4. Upvote the post.
-5. Comment with the specified message.

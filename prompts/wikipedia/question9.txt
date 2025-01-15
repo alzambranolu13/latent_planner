@@ -1,1 +1,0 @@
-"Retrieve information about Nicolaus Copernicus from Wikipedia, including his background, accomplishments, birth and death dates, and early education."

@@ -1,1 +1,0 @@
-"Retrieve information about Julia Roberts from Wikipedia, including her birth date, net worth, notable films and television roles, marital status, and children."

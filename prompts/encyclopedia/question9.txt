@@ -1,1 +1,0 @@
-"Retrieve information about concrete blocks from the Encyclopedia website, including the definition of 'precast,' the typical weight of a concrete block, and the current manufacturing capacity."

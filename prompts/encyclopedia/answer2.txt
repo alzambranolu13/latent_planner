@@ -1,6 +1,0 @@
-1. Search for isotopes.
-2. Open the first search result.
-3. Retrieve and provide the definition of isotopes.
-4. Obtain the total number of views for the article.
-5. Determine the year James Chadwick won the Nobel Prize.
-6. Provide a brief explanation of atoms and elements.

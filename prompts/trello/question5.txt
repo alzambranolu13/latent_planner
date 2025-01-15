@@ -1,1 +1,0 @@
-"Create a Trello board named 'Blaze tickets' in the workspace 'Gamma' with visibility set to Workspace."

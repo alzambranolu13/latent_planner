@@ -1,3 +1,0 @@
-1. Search for "Annotations".
-2. Add a card under "Gmail" with the title "Template" and content "Digital Dispatch."
-3. Change the cover color of the card to blue.

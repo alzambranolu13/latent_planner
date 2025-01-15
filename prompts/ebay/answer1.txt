@@ -1,6 +1,0 @@
-1. Login using the provided details.
-2. Navigate to "Shop by category" and select "Gps and security devices" in Auto parts and Accessories.
-3. Choose the 2nd brand option.
-4. Specify the screen size as 5 inches.
-5. List available options.
-6. Retrieve and provide the seller notes for the 2nd option.

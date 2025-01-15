@@ -1,6 +1,0 @@
-1. Search for Smartphone VR Headsets.
-2. Filter the results to show Samsung brand options.
-3. Open the listing for "Samsung Gear VR & HARMAN AKG MODEL Y50 BT HEADPHONES."
-4. Provide the condition of the item.
-5. Share the price of the item.
-6. Retrieve and provide the seller's description of the item.

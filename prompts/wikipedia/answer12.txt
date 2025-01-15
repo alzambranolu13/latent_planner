@@ -1,5 +1,0 @@
-1. Search for Julia Roberts.
-2. Retrieve and provide Julia Roberts' birth date.
-3. Provide information on what Julia Roberts is known for and her net worth.
-4. List some of Julia Roberts' notable films and television roles.
-5. Share details about Julia Roberts' marriage to Daniel Moder and the number of children they have.

@@ -1,8 +1,0 @@
-1. Create a community named "RecipeLovers".
-2. Choose the community type as public and select adult content.
-3. Create a post with the following details:
-    - Title: A classic recipe for Tiramisu
-    - Ingredients listed with bullet points.
-    - Instructions provided after the ingredients in bullet points.
-4. Add tags to the post: #TiramisuRecipe #ClassicDesserts #ItalianCuisine #EasyDesserts #CoffeeFlavors #IndulgentTreats #MascarponeCheese
-5. Click on the "Post" option to publish the post.

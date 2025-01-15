@@ -1,1 +1,0 @@
-"Create a Reddit post on 'Types of tortoises' with specific content, tags, and an image, then save it as a draft."

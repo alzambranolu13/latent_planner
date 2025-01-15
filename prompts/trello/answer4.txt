@@ -1,3 +1,0 @@
-1. Create a new workspace named 'Project Hyphen.'
-2. Select the workspace type as 'Operations.'
-3. Add members to the workspace: johndoe@gmail.com, azizdivit@gmail.com, rachaelkeith@gmail.com, nancynars@gmail.com, kemaltarhun@gmail.com.

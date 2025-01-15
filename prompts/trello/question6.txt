@@ -1,1 +1,0 @@
-"Create lists named 'List 1 John Doe,' 'List 2 Aziz Divit,' 'List 3 Rachel Keith,' 'List 4 Nancy Nars,' and 'List 5 Kemal Tarhun' in the 'Project Hyphen' workspace on Trello. Assign specific tasks to each list."

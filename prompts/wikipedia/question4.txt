@@ -1,1 +1,0 @@
-"Retrieve information about the Industrial Revolution from Wikipedia, including the location where it began, social effects, and details on child labor during the Industrial Revolution."

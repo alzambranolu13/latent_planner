@@ -1,0 +1,4 @@
+weblinx
+huggingface_hub[cli]
+openai
+datasets

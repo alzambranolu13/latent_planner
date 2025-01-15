@@ -1,1 +1,0 @@
-"Retrieve information about the fourth item in the Featured Deals on eBay, including its price, condition, estimated delivery date, and what's included in the box."

@@ -1,1 +1,0 @@
-"Create a workspace named 'Project Hyphen' on Trello for Operations, adding specific members to the workspace."

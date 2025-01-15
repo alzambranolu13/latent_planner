@@ -1,1 +1,0 @@
-"Retrieve information about Greek Mythology from Wikipedia, including its definition, the division of the mythological 'history of the world,' Cicero's view of himself, and the significance of mythology during the Hellenistic period."

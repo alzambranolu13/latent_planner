@@ -1,4 +1,0 @@
-1. Create a new post.
-2. Set the title as 'I tried a new recipe, and it turned out amazing!'.
-3. Write the body content as specified.
-4. Draft the post without formatting.

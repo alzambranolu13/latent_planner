@@ -1,5 +1,0 @@
-1. Search for Chinese woks within the price range of $50 to $100.
-2. Provide a list of available options.
-3. Inquire about the material of the 'Craft Wok' item.
-4. Inquire about the capacity of the 'Craft Wok' item.
-5. Inquire about the price of the 'Craft Wok' item.

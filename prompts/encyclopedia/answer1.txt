@@ -1,5 +1,0 @@
-1. Retrieve a list of top 3 articles on communication satellites.
-2. Open the first article.
-3. Provide information on "Compact and Lightweight."
-4. Provide information on "Lowest Total Cost of Ownership."
-5. Define "Aptus."

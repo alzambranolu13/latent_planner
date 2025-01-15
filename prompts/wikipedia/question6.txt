@@ -1,1 +1,0 @@
-"Retrieve information on the French Revolution from Wikipedia, including its timeline, causes, early writings, and the role of women."

@@ -1,1 +1,0 @@
-"Retrieve information about genetic engineering from Encyclopedia.com, including the definition, number of views, and the last updated date."

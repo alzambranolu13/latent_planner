@@ -1,1 +1,0 @@
-"Create a Trello board titled 'Mila tickets' in the Project Hyphen workspace with workspace visibility set to 'Workspace'."

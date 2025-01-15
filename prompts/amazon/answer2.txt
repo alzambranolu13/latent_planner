@@ -1,4 +1,0 @@
-1. Search for the 'Realme 11 Pro+ 5G' mobile phone.
-2. Retrieve and provide the price of the item.
-3. Determine and list the available colors for the product.
-4. Provide the rating of the product.

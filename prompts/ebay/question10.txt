@@ -1,1 +1,0 @@
-"Find the price of the first sneaker option and retrieve eBay's return policy."

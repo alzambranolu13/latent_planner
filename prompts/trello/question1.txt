@@ -1,1 +1,0 @@
-"Search for 'Annotations' on Trello, add a card titled 'Email Empowerment' under 'Gmail' with the label 'Template' and notification set to 'watching'."

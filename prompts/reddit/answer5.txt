@@ -1,4 +1,0 @@
-1. Create a post with the content provided about types of tortoises.
-2. Add the specified tags to the post.
-3. Search for and add an image of a tortoise from Google.
-4. Save the post as a draft.

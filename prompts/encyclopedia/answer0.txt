@@ -1,5 +1,0 @@
-1. Search for 'What is organic chemistry?'.
-2. Open the second option from the search results.
-3. Retrieve the definition of 'organic' as referred to in the context of chemistry.
-4. Provide the configuration of carbon.
-5. Explain the concept of a covalent bond.

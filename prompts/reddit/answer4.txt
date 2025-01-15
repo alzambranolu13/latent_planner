@@ -1,4 +1,0 @@
-1. Create a new image post.
-2. Use the provided title for the post.
-3. Add an image of a Siberian Tiger to the post.
-4. Save the post as a draft.

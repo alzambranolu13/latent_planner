@@ -1,1 +1,0 @@
-"Search for 'Annotations' on Trello, add a card titled 'Template' under 'Gmail' with the title 'Digital Dispatch,' and change the cover color to blue."
