@@ -24,10 +24,11 @@ What I extracted from this for my dataset is:
 Goal: "Summarize the second news article in the Life section of the Irish Independent."
 
 Steps: 
-1. Navigate to the Life section.
-2. Open the second article.
-3. Read and summarize the content.
-4. Provide the summarized output to the user
+1. Open Irish Idependent website
+2. Navigate to the Life section.
+3. Open the second article.
+4. Read and summarize the content.
+5. Provide the summarized output to the user
 
 🧑 Hi
 🤖 Hello
@@ -50,12 +51,11 @@ What is extracted:
 Goal: "Retrieve the first paragraph of the second section of the first article related to ’Trading for beginners’ on Investopedia."
 
 Steps: 
-1. Search for articles on ”Trading for beginners.”
-2. Review the first three articles.
-3. Open the first article.
-4. Retrieve first paragraph of section number 2.
-
-If you noticed the step of opening the website is ignored, this is because we are assuming the expected page is already open. 
+1. Open the Investopedia website.
+2. Search for articles on ”Trading for beginners.”
+3. Review the first three articles.
+4. Open the first article.
+5. Retrieve first paragraph of section number 2.
 
 DO NOT mention the page name or URL on the steps, as examples show.
 

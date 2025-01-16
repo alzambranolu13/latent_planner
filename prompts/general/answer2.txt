@@ -2,8 +2,9 @@
 "Retrieve the summary of the introduction of the second article in Plos Biology."
 </goal>
 <steps>
-1. Navigate to the Plos One section.
-2. Retrieve a list of recently published articles.
-3. Open second article 
-4. Provide a summary of the article's introduction.
+1. Open Plos Biology website
+2. Navigate to the Plos One section.
+3. Retrieve a list of recently published articles.
+4. Open second article 
+5. Provide a summary of the article's introduction.
 </steps>
